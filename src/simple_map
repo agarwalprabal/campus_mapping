@@ -1,0 +1,32 @@
+6
+0
+administrative office
+
+1
+limbdi hostel
+
+2
+rajputana hostel
+
+3
+G 14 Hall
+
+4
+guest house
+
+5
+hyderabad gate
+
+
+2
+1 100 3 150
+3
+0 100 2 170 4 50
+4
+1 170 4 30 5 90 3 200
+3
+1 150 2 200 5 60
+3
+1 50 2 30 5 120
+3
+4 120 2 90 3 60

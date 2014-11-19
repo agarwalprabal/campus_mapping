@@ -1,0 +1,53 @@
+node:0
+10.00 17.00
+Office is open
+17.00 24.00
+Office is close
+0.00 10.00
+Office is close
+
+node:1
+5.00 22.00
+Hostel is open
+22.00 24.00
+Hostel is close
+0.00 5.00
+Hostel is close
+
+node:2
+5.00 22.00
+Hostel is open
+22.00 24.00
+Hostel is close
+0.00 5.00
+Hostel is close
+
+node:3
+8.00 12.15
+Classes
+12.15 2.00
+Lunch Break
+14.00 17.00
+Classes
+17.00 19.00
+Workshops
+19.00 24.00
+close
+0.00 8.00
+close
+
+node:4
+5.00 22.00
+Guest House is open
+22.00 24.00
+Guest House is close
+0.00 5.00
+Guest House is close
+
+node:5
+5.00 22.00
+Gate is open
+22.00 24.00
+Gate is close
+0.00 5.00
+Gate is close
